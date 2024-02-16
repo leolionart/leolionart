@@ -5,13 +5,6 @@
 ## GitHub Stats 📈 :
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
-    <a href="https://github.com/atom-tr/">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="../output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="../output/profile-summary-card-output/github/0-profile-details.svg" />
-          <img alt="profile-details"  align="top" src="../output/profile-summary-card-output/github/0-profile-details.svg" width= "68%"/>
-        </picture>
-    </a>
     <a href="https://github.com/atom-tr/" >
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
