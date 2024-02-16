@@ -1,19 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, `leolion` here.
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
-<!-- ![GitHub Snake Light](../output/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](../output/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../output/snake/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../output/snake/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="../output/snake/github-contribution-grid-snake.svg" />
-</picture>
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-</p>
-
 
 ## GitHub Stats 📈 :
 
