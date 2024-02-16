@@ -14,21 +14,10 @@
     </a>
 </div>
 
-
-
-### <img src="statics/Developer.gif" width="25px"> Some of the technologies I have worked with:
-
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atom-tr&color=brightgreen" alt="watching_count" />
-  <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/followers/atom-tr?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/atom-tr/"><img src="https://img.shields.io/github/last-commit/atom-tr/atom-tr?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+  <img src="https://komarev.com/ghpvc/?username=leolionart&color=brightgreen" alt="watching_count" />
+  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/followers/leolionart?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/last-commit/leolionart/leolionart?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
 <p align="center">
