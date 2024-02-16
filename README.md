@@ -7,24 +7,12 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
     <a href="https://github.com/atom-tr/" >
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&count_private=1" />
-          <img align="top" alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom-tr&layout=compact&count_private=1" width="30%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" />
+          <img align="top" alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" width="30%" />
         </picture>
     </a>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leolionart&color=brightgreen" alt="watching_count" />
-  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/followers/leolionart?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/last-commit/leolionart/leolionart?style=flat-square?color=red&label=Last%20Updated%20"/></a>
-</p>
-
-<p align="center">
-<i>“If you want to learn to swim jump into the water. On dry land no frame of mind is ever going to help you.”</i>
-<br>― Bruce Lee
-</p>
-
 -----
 
 
