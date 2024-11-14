@@ -1,6 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">, `leolion` here.
 <!-- ### I'm just a man who thinking about kill ** everyday -->
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/leolionart/output/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/leolionart/output/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.statically.io/gh/leolionart/leolionart/output/snake/github-contribution-grid-snake.svg" />
+</picture>
 
 ## GitHub Stats 📈
 
