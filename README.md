@@ -58,9 +58,12 @@ JavaScript               1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leolionart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leolionart" /></a></p><br><br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leolionart&color=brightgreen" alt="watching_count" />
+  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/followers/leolionart?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20" alt=""/></a>
+  <a href="https://github.com/leolionart/"><img src="https://img.shields.io/github/last-commit/leolionart/leolionart?style=flat-square?color=red&label=Last%20Updated%20" alt=""/></a>
+</p>
 
 <!--
 **leolionart/leolionart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leolionart&show_icons=true&locale=en&layout=compact" alt="leolionart" /></p>
-
-
