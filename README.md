@@ -8,12 +8,12 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-light-mode-only" />
-      <img alt="profile-details"  align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg" width= "50%"/>
+      <img alt="profile-details"  align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg" width= "40%"/>
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only" />
-      <img align="top" alt="profile-details" align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" width="50%" />
+      <img align="top" alt="profile-details" align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" width="40%" />
     </picture>
 </div>
 
