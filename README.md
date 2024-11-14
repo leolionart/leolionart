@@ -2,16 +2,19 @@
 <!-- ### I'm just a man who thinking about kill ** everyday -->
 
 
-## GitHub Stats 📈 :
+## GitHub Stats 📈
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
-    <a href="https://github.com/atom-tr/" >
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" />
-          <img align="top" alt="profile-details"  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" width="30%" />
-        </picture>
-    </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/leolionart/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/leolionart/output/profile-summary-card-output/github/0-profile-details.svg" />
+      <img alt="profile-details" align="top" src="https://cdn.statically.io/gh/leolionart/leolionart/output/profile-summary-card-output/github/0-profile-details.svg" width="68%" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" />
+      <img align="top" alt="profile-details" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" width="30%" />
+    </picture>
 </div>
 
 <h3 align="left">Connect with me:</h3>
