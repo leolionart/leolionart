@@ -11,9 +11,9 @@
       <img alt="profile-details"  align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg" width= "68%"/>
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&theme=dark&border_color=252D33&bg_color=0B0F15&count_private=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" />
-      <img align="top" alt="profile-details" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolionart&layout=compact&count_private=1" width="30%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only" />
+      <img align="top" alt="profile-details" align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" width="30%" />
     </picture>
 </div>
 
