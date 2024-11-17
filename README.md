@@ -9,15 +9,19 @@
 ## GitHub Stats 📈
 
 <div style="display: flex; align-items: flex-start; justify-content: space-around">
+    <!-- Overview Section -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-light-mode-only" />
-      <img alt="profile-details"  align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg" width= "40%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-dark-mode-only" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-light-mode-only" />
+        <img alt="profile-overview" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg" width="40%" />
     </picture>
+
+    <!-- Language Stats Section -->
+    
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only" />
-      <img align="top" alt="profile-details" align="top" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" width="40%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only" />
+        <img alt="language-stats" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg" width="40%" />
     </picture>
 </div>
 
