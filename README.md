@@ -22,8 +22,18 @@
   </picture>
 </div>
 
-![Language Stats Light](https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only)
-![Language Stats Dark](https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only)
+
+## GitHub Stats 📈
+
+<div align="center">
+  
+  ![Overview Light](https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-light-mode-only)
+  ![Overview Dark](https://cdn.statically.io/gh/leolionart/github-stats/main/output/overview.svg#gh-dark-mode-only)
+  
+  ![Languages Light](https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only)
+  ![Languages Dark](https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only)
+
+</div>
 ---
 
 <!--START_SECTION:activities-->
