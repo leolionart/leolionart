@@ -16,8 +16,8 @@
   </picture>
 
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg#gh-light-mode-only" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leolionart/github-stats/refs/heads/main/output/lang.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leolionart/github-stats/refs/heads/main/output/lang.svg#gh-light-mode-only" />
       <img alt="language-stats" src="https://cdn.statically.io/gh/leolionart/github-stats/main/output/lang.svg" width="45%" />
   </picture>
 </div>
