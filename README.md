@@ -52,9 +52,9 @@ HCL                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-
-
 <!--END_SECTION:activities-->
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://twitter.com/quangai" target="blank">
