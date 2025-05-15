@@ -56,29 +56,27 @@ HCL                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:activities-->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/quangai" target="blank">
-    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="quangai" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="quangai" height="30" />
   </a>
   <a href="https://linkedin.com/in/leolion" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leolion" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leolion" height="30" />
   </a>
   <a href="https://fb.com/art.leolion" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="art.leolion" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="art.leolion" height="30" />
   </a>
   <a href="https://dribbble.com/leolion" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="leolion" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="leolion" height="30" />
   </a>
   <a href="https://www.behance.net/leolion" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="leolion" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="leolion" height="30" />
   </a>
   <a href="https://t.me/aitran" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aitran" height="30" />
+    <img style="display: block;" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aitran" height="30" />
   </a>
 </p>
 
-</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leolionart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leolionart" /></a></p><br><br>
