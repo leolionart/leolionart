@@ -73,7 +73,7 @@ HCL                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/leolionart"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" alt="leolionart" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/leolionart"> <img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30" alt="leolionart" /></a></p><br><br>
 
 
 ---
